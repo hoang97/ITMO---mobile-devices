@@ -8,6 +8,7 @@
 How to run:
 
 - open terminal
+- write: nfdump -r nfcapd.202002251200 -o "fmt:%sa,%da,%byt,%ts,%te" >> data1.txt
 - write: py
 - write: import plotGraphic,billing
 - to see graphic of user's traffic: plotGraphic.show('192.168.250.59')
