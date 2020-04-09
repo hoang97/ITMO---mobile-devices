@@ -5,7 +5,7 @@
 - 0,5руб/Мб до достижения 500Мб
 - далее 1руб/Мб
 
-how to run:
+How to run:
 
 - open terminal
 - write: py
