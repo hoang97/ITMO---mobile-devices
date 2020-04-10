@@ -16,7 +16,7 @@ How to run:
 
 Note:
 
-If you haven't installed pyplot for python, follow these instruction for installing:
+If you haven't installed pyplot for python, follow these instructions for installing:
 
 - open terminal
 - write: py -m pip install -U pip
