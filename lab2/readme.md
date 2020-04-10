@@ -13,3 +13,11 @@ How to run:
 - write: import plotGraphic,billing
 - to see graphic of user's traffic: plotGraphic.show('192.168.250.59')
 - to see internet_invoices: billing.invoices('192.168.250.59')
+
+Note:
+
+If you haven't installed pyplot for python, follow these instruction for installing:
+
+- open terminal
+- write: py -m pip install -U pip
+- write: py -m pip install -U matplotlib
